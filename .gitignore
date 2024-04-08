@@ -52,6 +52,11 @@ ExportedObj/
 *.pdb.meta
 *.mdb.meta
 
+#meta files in the top level folder
+README.md.meta
+LICENSE.meta
+Scripts.meta
+
 # Unity3D generated file on crash reports
 sysinfo.txt
 
